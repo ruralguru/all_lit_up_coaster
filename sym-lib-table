@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "Philip_J_stencil")(type "KiCad")(uri "${KICAD_USER_SYMBOLS}/Philip_J_stencil.kicad_sym")(options "")(descr ""))
+  (lib (name "ERW_LOGO")(type "KiCad")(uri "${KICAD_USER_SYMBOLS}/ERW_LOGO.kicad_sym")(options "")(descr ""))
+  (lib (name "ERW_Power")(type "KiCad")(uri "${KICAD_USER_SYMBOLS}/ERW_Power.kicad_sym")(options "")(descr ""))
+  (lib (name "ERW_SW")(type "KiCad")(uri "${KICAD_USER_SYMBOLS}/ERW_SW.kicad_sym")(options "")(descr ""))
+  (lib (name "ERW_TIMER")(type "KiCad")(uri "${KICAD_USER_SYMBOLS}/ERW_TIMER.kicad_sym")(options "")(descr ""))
+)

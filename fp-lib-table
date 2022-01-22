@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name PJ_LOGO)(type KiCad)(uri ${KICAD_USER_FOOTPRINTS}/ERW/PJ_LOGO.pretty)(options "")(descr ""))
+  (lib (name ERW_WLCSP)(type KiCad)(uri ${KICAD_USER_FOOTPRINTS}/ERW/ERW_WLCSP.pretty)(options "")(descr "")(disabled))
+  (lib (name ERW_Battery)(type KiCad)(uri ${KICAD_USER_FOOTPRINTS}/ERW/ERW_Battery.pretty)(options "")(descr ""))
+  (lib (name ERW_SW)(type KiCad)(uri ${KICAD_USER_FOOTPRINTS}/ERW/ERW_SW.pretty)(options "")(descr ""))
+  (lib (name ERW_Logo)(type KiCad)(uri ${KICAD_USER_FOOTPRINTS}/ERW/ERW_Logo.pretty)(options "")(descr ""))
+  (lib (name Aesthetics)(type KiCad)(uri ${KICAD_USER_FOOTPRINTS}/Sparkfun/Aesthetics.pretty)(options "")(descr ""))
+  (lib (name VLCF4020T-4R7N1R2)(type KiCad)(uri ${KICAD_USER_FOOTPRINTS}/ultralibrarian/VLCF4020T-4R7N1R2.pretty)(options "")(descr ""))
+  (lib (name board_logo)(type KiCad)(uri C:/Users/titan/Documents/Projects/KiCAD/Libraries/Footprints/ERW/project_name.pretty)(options "")(descr ""))
+)
