@@ -1,0 +1,8 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Philip_J_stencil") (type "KiCad") (uri "${KIPRJMOD}/Parts/Philip_J_stencil.kicad_sym") (options "") (descr ""))
+	(lib (name "ERW_LOGO") (type "KiCad") (uri "${KIPRJMOD}/Parts/ERW_LOGO.kicad_sym") (options "") (descr ""))
+	(lib (name "ERW_Power") (type "KiCad") (uri "${KIPRJMOD}/Parts/ERW_Power.kicad_sym") (options "") (descr ""))
+	(lib (name "ERW_SW") (type "KiCad") (uri "${KIPRJMOD}/Parts/ERW_SW.kicad_sym") (options "") (descr ""))
+	(lib (name "ERW_TIMER") (type "KiCad") (uri "${KIPRJMOD}/Parts/ERW_TIMER.kicad_sym") (options "") (descr ""))
+)
