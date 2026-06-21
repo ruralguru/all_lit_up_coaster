@@ -29,3 +29,7 @@ fp-info-cache
 archive/
 coaster_fab/
 Documents/
+*.odt
+/Rev1p1/All_Lit_Up-backups
+/Rev1/Coaster-backups
+Rev1p1/ibom.config.ini
